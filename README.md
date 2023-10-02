@@ -17,9 +17,9 @@ Assignment Details:
   * The maze may contain walls (illegal states) that the agent must avoid colliding with.
   * The agent's primary goal is to find a plan that leads from the start state to the goal state within the maze.
 3. Assignment Components, Formal Analysis:
-  *Provide a comprehensive formal analysis that includes:
-  *PEAS: Clearly define the Performance measure, Environment type, Actuators, and Sensors for your agent.
-  *Environment Type: Describe the type of environment your agent operates in (e.g., Fully observable, Partially observable, Deterministic, Stochastic, etc.).
-  *Formulation of the Search Problem: Present a detailed formulation of the search problem, including the initial state, goal state, state space, operators, and any relevant assumptions.
-  *Implement an agent program that allows the agent to navigate through a maze game environment.
-  *Implement both Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms to find the path from the start state to the goal state.
+* Provide a comprehensive formal analysis that includes:
+* PEAS: Clearly define the Performance measure, Environment type, Actuators, and Sensors for your agent.
+* Environment Type: Describe the type of environment your agent operates in (e.g., Fully observable, Partially observable, Deterministic, Stochastic, etc.).
+* Formulation of the Search Problem: Present a detailed formulation of the search problem, including the initial state, goal state, state space, operators, and any relevant assumptions.
+* Implement an agent program that allows the agent to navigate through a maze game environment.
+* I mplement both Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms to find the path from the start state to the goal state.
