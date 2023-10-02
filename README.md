@@ -6,6 +6,8 @@ problems. Your task is to find the path from the start state to the goal state i
 maze environment using Depth-First Search (DFS) and Breadth-First Search (BFS)
 algorithms.
 
+![image](https://github.com/haby1/Solving-Maze-in-Python/assets/110760511/5198a807-5f6d-46db-b130-267488879bcc)
+
 Assignment Details:
 1. Group Collaboration:
   * This assignment is a group project, and all group members must actively cooperate with each other.
